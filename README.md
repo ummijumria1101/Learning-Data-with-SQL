@@ -1,2 +1,2 @@
-# Learning Data using Python
-Repository ini digunakan untuk menyimpan portofolio tentang python untuk data analyst
+# Learning Data with SQL
+Repository ini digunakan untuk menyimpan portofolio tentang SQL untuk data analyst
